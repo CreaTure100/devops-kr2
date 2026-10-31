@@ -1,3 +1,4 @@
+# KR2: Shavrov
 import os
 import socket
 
